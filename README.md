@@ -20,6 +20,7 @@ I used Trello to control all task and who was development each task.
 - Every task with red labels represent that this task belongs to sprint 1
 - Every task with gree labels represent that this task belongs to sprint 2
 - Every task with blue labels represent the difficult each task, I used Fibonacci numbers until number 13 to quantify the difficult
+- All tasks with my person in member are my responsibility in this sprint, the other task that hasn't members hypothetically someone can do it.
 
 I chose don't use back-end to develop it because I hadn't time to develop all that I needed and I hadn't time to develop all the task to see a complete system with gamification.
 
